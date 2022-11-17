@@ -1,0 +1,23 @@
+{
+  "name": "email-notify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patelaryan7751/email-notify.git"
+  },
+  "author": "Aryan Patel <patelaryan7751@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patelaryan7751/email-notify/issues"
+  },
+  "homepage": "https://github.com/patelaryan7751/email-notify#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemailer": "^6.8.0"
+  }
+}
